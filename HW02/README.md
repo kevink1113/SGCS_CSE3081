@@ -1,6 +1,6 @@
 ### Problem 1
 
-Proove that ![CodeCogsEqn-3](https://user-images.githubusercontent.com/48401272/103258635-40deb480-49d9-11eb-8cda-cf47d7502294.gif)using definition of big-O. 
+Proove that ![CodeCogsEqn-3](https://user-images.githubusercontent.com/48401272/103258635-40deb480-49d9-11eb-8cda-cf47d7502294.gif) using definition of big-O. 
 
 
 
