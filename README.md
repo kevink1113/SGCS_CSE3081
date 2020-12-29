@@ -16,3 +16,7 @@
 | [PHW07](/PHW07) | Baekjoon Online Judge Problem #16359 (Disks Arrangement)     |
 | [PHW08](/PHW08) | Baekjoon Online Judge Problem #2396 (같은 길이 막대기 만들기) |
 
+All of the Programming Homeworks (PHW0n) runs by **File Redirection** (input file located in each corresponding "In_Out" folder.)
+
+s191559H0n files are of my work, and other files (header, object, other cpp files) were provided by Prof. Lim.
+
