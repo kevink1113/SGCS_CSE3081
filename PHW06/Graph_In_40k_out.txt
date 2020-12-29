@@ -1,0 +1,1 @@
+**T1 (Dijkstra) (V = 40000, E = 739311, time = 10.330 sec) Tree Cost = 1178513
