@@ -10,3 +10,4 @@ For any four consecutive integers, the difference between the product of the las
 
 Proove the following statement using mathematical induction.
 
+![CodeCogsEqn-2](https://user-images.githubusercontent.com/48401272/103258472-6a4b1080-49d8-11eb-81c5-e91f331d9e0b.gif)
